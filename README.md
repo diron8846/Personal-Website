@@ -8,6 +8,7 @@ It relies on just two external dependencies:
 * [Three.js r128](https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js) – for the animated hero scene  
 
 ---
+## Hosted on Vercel https://daironrevival.vercel.app/
 
 ## 🎨 Visual & UI Highlights
 
@@ -98,3 +99,4 @@ This project is released under the [MIT License](LICENSE) – feel free to adapt
 
 ---
 😎Dairon
+
