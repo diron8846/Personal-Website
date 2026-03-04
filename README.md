@@ -97,6 +97,4 @@ yt/
 This project is released under the [MIT License](LICENSE) – feel free to adapt, share, and build upon it, provided you include the same license in derivative works.
 
 ---
-
-Feel free to expand this README as you add new features, assets, or tooling (e.g. splitting CSS/JS into separate files or integrating with a build system).  
-Let me know if you’d like help turning this into a multi‑page site or adding a deployment workflow!
+😎Dairon
