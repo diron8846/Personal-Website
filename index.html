@@ -101,7 +101,8 @@ body{
 .ld-name{
   font-family:var(--ff-disp);font-size:2.8rem;letter-spacing:.25em;
   color:var(--white);margin-bottom:32px;
-  text-shadow:0 0 30px rgba(74,127,165,.3);}
+  text-shadow:0 0 30px rgba(74,127,165,.3);
+  text-align:center;}
 .ld-name .ld-accent{
   color:var(--lb-sky);
   text-shadow:0 0 18px rgba(137,196,225,.7),0 0 40px rgba(74,127,165,.4);}
@@ -707,7 +708,6 @@ footer{
 ══════════════════════════════════════ */
 @media(max-width:960px){
   .about-grid{grid-template-columns:1fr;gap:48px;}
-  .social-dock{display:none;}
   nav .nav-links{display:none;}
   #cv-section{flex-direction:column;align-items:flex-start;}
   .hero-stat-card{display:none;}
@@ -717,6 +717,10 @@ footer{
   .projects-grid{grid-template-columns:1fr;}
   .stats-row{grid-template-columns:1fr 1fr;}
   footer{flex-direction:column;gap:8px;text-align:center;}
+  .ld-name{font-size:1.8rem;letter-spacing:.15em;padding:0 10px;}
+  .ld-film{gap:2px;}
+  .ld-frame{width:20px;height:30px;}
+  .ld-bar-wrap{width:200px;}
 }
 </style>
 </head>
